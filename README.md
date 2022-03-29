@@ -2,7 +2,7 @@
 
 
 - 🔭 Estudando Informática
-- 💬 contate-me: yuribreno288@gmail.com
+- 💬 life is programmable
 - ⚡ si vis pacem para bellum
 
 <div align="center">
