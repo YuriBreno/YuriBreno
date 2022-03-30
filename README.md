@@ -7,16 +7,16 @@
 
 <div align="center">
   <a href="https://github.com/YuriBreno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriBreno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBreno&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriBreno&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/></a>
   
+## Tecnologias que eu utilizo    
+</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-jav" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Yuri-Php" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Yuri-gif" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
   
 ##
