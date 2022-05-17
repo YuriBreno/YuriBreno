@@ -1,4 +1,4 @@
-### Olá Terráqueo👋
+### Olá👋
 
 
 - 🔭 Estudando Informática
