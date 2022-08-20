@@ -12,11 +12,10 @@
 </h1>
 
 Olá, eu me chamo Yuri, sou um Jovem que ama a programação e tudo o que ela tem pra oferecer.
-Atualmente estou a procura de novas experiências nesse incrivel mundo da programação.
+Atualmente estou a procura de novas experiências nesse incrivel mundo movido a códigos.
 
-<img align="right" width="250px" src="https://tenor.com/view/coding-anime-gif-24565564"/>
+<img align="right" width="280px" src="/gifs/coding-anime.gif"/>
 
-###
 
 Aqui estão algumas coisinhas sobre minha pessoa:
 * 📚 Atualmente estou estudando no LTV em Pacatuba-CE, Cursando Informática.
@@ -24,23 +23,27 @@ Aqui estão algumas coisinhas sobre minha pessoa:
 * 🏹 Estou a procura de experiências na área 
 * 🛡 Qualque ajuda sobre tecnologias é bem vinda xD 
 * 💬 Gosto de estudar programaçãa e jogar xD
-* 💾 Fique a vontade para trocar uma ideia comigo no [Instagram](https://www.instagram.com/theyur1/), e caso queira vê alguns projetos que eu fiz ta aí meu [portfolio](https://freddcf.github.io/freddcf)
+* 💾 Fique a vontade para trocar uma ideia comigo no [Instagram](https://www.instagram.com/theyur1/).
   
   ##
   
 <div style="display: inline_block">
-  <h3>Techs:  
+  <h3>Tecnologias:  
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yuri-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Yuri-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Yuri-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align="center" alt="Yuri-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Yuri-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
   </h3>
 </div>
+<br>
+
+
   
-  ![Snake animation](https://github.com/freddcf/freddcf/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center" height="180em">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=YuriBreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
