@@ -14,7 +14,7 @@
 Olá, eu me chamo Yuri, sou um Jovem que ama a programação e tudo o que ela tem pra oferecer.
 Atualmente estou a procura de novas experiências nesse incrivel mundo da programação.
 
-<img align="right" width="250px" src="/.github/restnow.gif"/>
+<img align="right" width="250px" src="https://tenor.com/view/coding-anime-gif-24565564"/>
 
 ###
 
