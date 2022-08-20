@@ -1,33 +1,48 @@
-### Olá Eu me chamo Yuri👋
-
-
-- 🔭 Estudando Informática
-- 💬 life is programmable
-- ⚡ Back-End
-
-<div align="center">
-  <a href="https://github.com/YuriBreno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriBreno&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/></a>
+<h1 style="display: inline_block">Olá Terráqueo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   
-## Tecnologias que eu utilizo    
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Yuri-jav" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Yuri-Php" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Yuri-Mysql" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- 
+  <img src="https://komarev.com/ghpvc/?username=YuriBreno&label=Profile%20views&color=0e75b6&style=flat-square&color=blue" align="right" title="Visualizacões de perfil" alt="Profile views" />
 
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="">
+  <a href="mailto:yuribreno288@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" align="right" title="Envie-me um email" alt="Gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/yuri-breno-698981241/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" align="right" title="Rede social" alt="LinkedIn">
+  </a>
+</h1>
+
+Olá, eu me chamo Yuri, sou um Jovem que ama a programação e tudo o que ela tem pra oferecer.
+Atualmente estou a procura de novas experiências nesse incrivel mundo da programação.
+
+<img align="right" width="250px" src="/.github/restnow.gif"/>
+
+###
+
+Aqui estão algumas coisinhas sobre minha pessoa:
+* 📚 Atualmente estou estudando no LTV em Pacatuba-CE, Cursando Informática.
+* ⚔ Atualmente estou estudando mais sobre Laravel, PHP e JAVA.
+* 🏹 Estou a procura de experiências na área 
+* 🛡 Qualque ajuda sobre tecnologias é bem vinda xD 
+* 💬 Gosto de estudar programaçãa e jogar xD
+* 💾 Fique a vontade para trocar uma ideia comigo no [Instagram](https://www.instagram.com/theyur1/), e caso queira vê alguns projetos que eu fiz ta aí meu [portfolio](https://freddcf.github.io/freddcf)
+  
+  ##
+  
+<div style="display: inline_block">
+  <h3>Techs:  
+  <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Yuri-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Yuri-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Yuri-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+
+  </h3>
 </div>
   
-##
-<div> 
-  <a href="https://instagram.com/theyur1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:yuribreno288@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
- 
+  ![Snake animation](https://github.com/freddcf/freddcf/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center" height="180em">
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=YuriBreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBreno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-       
-          
