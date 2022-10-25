@@ -19,7 +19,7 @@ Atualmente estou a procura de novas experiências nesse incrivel mundo movido a 
 
 Aqui estão algumas coisinhas sobre minha pessoa:
 * 📚 Atualmente estou estudando no LTV em Pacatuba-CE, Cursando Informática.
-* ⚔ Atualmente estou estudando mais sobre Android, PHP e JAVA.
+* ⚔ Atualmente estou estudando Java e VueJs.
 * 🏹 Estou a procura de experiências na área 
 * 🛡 Qualque ajuda sobre tecnologias é bem vinda xD 
 * 💬 Gosto de estudar programaçãa e jogar xD
