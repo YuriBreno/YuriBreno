@@ -19,7 +19,7 @@ Atualmente estou a procura de novas experiências nesse incrivel mundo movido a 
 
 Aqui estão algumas coisinhas sobre minha pessoa:
 * 📚 Atualmente estou graduando em Análise e Desenvolvimento de Sistemas.
-* ⚔ Atualmente estou focando meu estudo como Full Stack.
+* ⚔ Atualmente estou focando meu estudo como Desenvolvedor Back-End.
 * 🏹 Estou a procura de experiências na área 
 * 🛡 Qualque ajuda sobre tecnologias é bem vinda xD 
 * 💬 Gosto de estudar programaçãa e jogar xD
